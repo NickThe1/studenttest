@@ -2,7 +2,7 @@
 This project is created to get deeper understanding Spring IoC and XML configuration.
 
 Program tests student's knowledge via tests written in txt file.
-To use bean config taskbeans.xml your test file must have following structure:\n
+To use bean config taskbeans.xml your test file must have following structure:
 1 line: task itself
 2 line: answer
 3 line: task itself
